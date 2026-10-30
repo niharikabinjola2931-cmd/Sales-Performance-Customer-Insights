@@ -21,10 +21,6 @@ The goal is to transform raw transactional data into meaningful business insight
 4. **DAX Calculations:** Developed measures for revenue, month-over-month growth, year-over-year growth, and customer segmentation.
 5. **Dashboard Development:** Built an interactive dashboard with KPI cards, charts, and slicers.
 
-## Dashboard Preview
-
-![Sales Performance & Customer Insights Dashboard](Dashboard/Dashboard_Screenshot.png)
-
 ## Key Business Insights
 
 ### 1. Overall Performance
